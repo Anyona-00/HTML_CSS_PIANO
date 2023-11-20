@@ -8,8 +8,8 @@ html {
   
   #piano {
     background-color: #00471b;
-    width: 992px;
-    height: 290px;
+    width: 57.625 rems;
+    height: 18.125rem;
     margin: 80px auto;
     padding: 90px 20px 0 20px;
     position: relative;
@@ -19,7 +19,7 @@ html {
   .keys {
     background-color: #040404;
     width: 949px;
-    height: 180px;
+    height: 11.25 rems;
     padding-left: 2px;
     overflow: hidden;
   }
